@@ -6,3 +6,5 @@ Make sure you include a non empty README.md in your directory:
     AND in the directory 0x01-git
 
 And important part: Make sure your commit and push your code to Github - otherwise the Checker will always fail.
+
+Azeez Lawal.
